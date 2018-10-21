@@ -27,6 +27,7 @@ First, all the "easy" files are processed and merged together.
 
 ### Hard Files
 There are two 'hard' files that needed some cleaning up before merging:
+
 	* table_02_income_group_minimums_1979_2014.csv  
 	* table_04_median_household_income_1979_2014.csv  
 
