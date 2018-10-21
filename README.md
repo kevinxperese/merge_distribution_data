@@ -44,6 +44,6 @@ The minimums data contain 'income_group' minimums for four household sizes (1 th
 The minimums data are merged on to the 
 
 ## Output Data
-In the `output_data` directory is a single file: `distribution_data_2014.csv`.
+In the `output_data` directory is a single file: `distribution_data.csv`.
 
 It contains 1440 rows and 70 columns
