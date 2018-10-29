@@ -1,4 +1,4 @@
-# Merge Ddistribution Data
+# Merge Distribution Data
 
 The Jupyter notebook in this  repo reads all the Supplemental Data ([https://www.cbo.gov/system/files/115th-congress-2017-2018/reports/53597-supplementaldata-zipped.zip](https://www.cbo.gov/system/files/115th-congress-2017-2018/reports/53597-supplementaldata-zipped.zip)) from CBO's [Distribution of Household Income, 2014](https://www.cbo.gov/publication/53597) report, and combines them into a single rectangular file.
 
